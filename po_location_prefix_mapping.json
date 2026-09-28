@@ -1,0 +1,96 @@
+{
+  "version": "2026-09-28",
+  "description": "PO prefix to clinic/location/Class mapping used by GATP vendor bill import tools.",
+  "poNamingMethodology": [
+    {
+      "poPrefix": "CST",
+      "location": "Southington",
+      "className": "CT Clinics:CT Rheumatology Southington",
+      "source": "existing"
+    },
+    {
+      "poPrefix": "CC",
+      "location": "Southington",
+      "className": "CT Clinics:CT Rheumatology Southington",
+      "source": "existing"
+    },
+    {
+      "poPrefix": "CT",
+      "location": "Southington",
+      "className": "CT Clinics:CT Rheumatology Southington",
+      "source": "existing"
+    },
+    {
+      "poPrefix": "CS",
+      "location": "Southington",
+      "className": "CT Clinics:CT Rheumatology Southington",
+      "source": "existing"
+    },
+    {
+      "poPrefix": "SBSN",
+      "location": "Shadow Lane - Neuro",
+      "className": "Shadow Lane - Neuro",
+      "source": "new"
+    },
+    {
+      "poPrefix": "SBSR",
+      "location": "Shadow Lane - Rheum",
+      "className": "Shadow Lane - Rheum",
+      "source": "new"
+    },
+    {
+      "poPrefix": "SBE",
+      "location": "Eastern",
+      "className": "NV Clinics:Eastern Rheumatology",
+      "source": "new"
+    },
+    {
+      "poPrefix": "SBFI",
+      "location": "Fire Mesa - ID",
+      "className": "NV Clinics:Fire Mesa ID",
+      "source": "new"
+    },
+    {
+      "poPrefix": "SBFR",
+      "location": "Fire Mesa - Rheum",
+      "className": "Fire Mesa - Rheum",
+      "source": "new"
+    },
+    {
+      "poPrefix": "SBO",
+      "location": "Reno",
+      "className": "Reno",
+      "source": "new"
+    },
+    {
+      "poPrefix": "SBR",
+      "location": "Rainbow",
+      "className": "Rainbow",
+      "source": "new"
+    },
+    {
+      "poPrefix": "AA",
+      "location": "South Carolina",
+      "className": "South Carolina Rheumatology",
+      "source": "new"
+    },
+    {
+      "poPrefix": "CCN",
+      "location": "Southington",
+      "className": "CT Clinics:CT Rheumatology Southington",
+      "source": "new"
+    },
+    {
+      "poPrefix": "CCY",
+      "location": "Southbury",
+      "className": "Southbury",
+      "source": "new"
+    },
+    {
+      "poPrefix": "CCD",
+      "location": "Danbury",
+      "className": "Danbury",
+      "source": "new"
+    }
+  ]
+}
